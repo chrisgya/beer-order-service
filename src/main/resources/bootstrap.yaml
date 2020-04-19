@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      url: http://localhost:8012
+      name: bs-config-server
